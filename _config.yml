@@ -48,10 +48,10 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url: https://www.facebook.com/ruidechua
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: github
     url: http://github.com/ruidechua
+  - title: flickr
+    url: http://stackoverflow.com/questions/tagged/jekyll
 
 # Postal address (add as many lines as necessary)
 #address:
