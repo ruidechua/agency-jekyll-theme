@@ -1,0 +1,40 @@
+ <!-- projects pmodals -->
+ {% for projects in site.projects %}
+    <div class="projects-pmodal pmodal fade" id="projectspmodal{{ projects.pmodal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="pmodal-content">
+            <div class="close-pmodal" data-dismiss="pmodal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="pmodal-body">
+                            <h2>{{ projects.title }}</h2>
+                            <hr class="star-primary">
+                            <img src="img/projects/{{ projects.img }}" class="img-responsive img-centered" alt="{{ projects.alt }}">
+                            <p>{{ projects.description }}</p>
+                            <ul class="list-inline item-details">
+                                <li>Client:
+                                    <strong><a href="http://startbootstrap.com">{{ projects.client }}</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong><a href="http://startbootstrap.com">{{ projects.project-date }}</a>
+                                    </strong>
+                                </li>
+                                <li>Service:
+                                    <strong><a href="http://startbootstrap.com">{{ projects.category }}</a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="pmodal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
