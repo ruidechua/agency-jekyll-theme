@@ -1,5 +1,5 @@
 ---
-title: BoomBot - Spherical Audio Companion
+title: BoomBott - Spherical Audio Companion
 subtitle: Technical
 layout: default
 modal-id: 2
