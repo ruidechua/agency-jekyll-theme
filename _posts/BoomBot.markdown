@@ -1,0 +1,17 @@
+---
+title: BoomBot - Spherical Audio Companion
+subtitle: Technical
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Embedded Software/Robotics Hardware
+description: A school project during my third year, we were tasked to build a Spherical robot that performs a special function besides being able to move. Taking knowledge from previous projects and experiences, we employed design thinking skills to ideate and porotype our robot.
+
+ We were also thought the “waterfall” method in project management, going through modified versions of System Requirements Review (SRR), System Design Review (SDR), and Preliminary Design Review (PDR). Through these steps, our team has created a spherical Bluetooth speaker that has the ability to follow you, through the Pixycam technology.
+
+---

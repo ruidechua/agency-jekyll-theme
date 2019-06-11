@@ -1,0 +1,17 @@
+---
+title: Polytechnic FYP - Portable Rescue Robot
+subtitle: Electronics
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Robotics
+description: The PRR is designed be a tool used for traffic officers to control traffic flow in an event of a car accident by towing the car to the side of the road. This set of two robots will be made portable, operated by one person (i.e. the officer), and be simple to use. This tool can also be expended for Land Transport Authority (LTA) Marshals or even car owners to utilize this robot in an event of a vehicle breakdown, and causing obstruction to the ongoing traffic.
+
+ A huge part of this project was devoted into studying the feasibly of the robot, in both technical and practical aspects.  extra effort was also made to study the mechanical aspects of this project due to its load. Although the final product did not see the light of day during my involvement in this project, it set a solid groundwork for future teams to work on.
+
+---

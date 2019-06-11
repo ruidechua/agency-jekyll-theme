@@ -1,0 +1,19 @@
+---
+title: BattleBlobs - Battleship clone boardgame
+subtitle: Technical
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: FPGA Programming
+description: As a means of learning Field-Programmable Gate Arrays (FPGA), we were asked to build a board game on the mojo platform, with the specific requirement for the programme to use arithmetic logic unit (ALU) functions of a CPU. The end result is a board game utilizing 4 LED dot matrixes, and two sets of D pads.
+
+​The user will first place 2 of their own blobs on their left board, and then the game will start, where users will "bomb" each others blobs, revealing a hit or miss at the end of each turn.
+
+The FPGA is written in Lucid, a Verilog-based C like language, and the source code can be found here - https://github.com/shajinihubert/BattleBlob
+
+---
