@@ -12,8 +12,6 @@ client: Start Bootstrap
 category: Electronics
 description: A project at the end of my second year in SUTD. We were tasked to identify and ideate on problems that the elderly and assistive care sectors will face. After an outing trip with a group of wheelchair bound clients, our team realized the positive impact that a motorized wheelchair will bring about to the user, and how uncommon it is in the community. Our prototype can be assembled in less than 5 minutes, and at half the cost of an off-the-shelf motorized wheelchair.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PEDKUpT1oP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ---
 
 Test 123
