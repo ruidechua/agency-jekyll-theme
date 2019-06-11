@@ -12,4 +12,6 @@ client: Start Bootstrap
 category: FPGA Programming
 description: As a means of learning Field-Programmable Gate Arrays (FPGA), we were asked to build a board game on the mojo platform, with the specific requirement for the programme to use arithmetic logic unit (ALU) functions of a CPU. The end result is a board game utilizing 4 LED dot matrixes, and two sets of D pads. The user will first place 2 of their own blobs on their left board, and then the game will start, where users will "bomb" each others blobs, revealing a hit or miss at the end of each turn. The FPGA is written in Lucid, a Verilog-based C like language, and the source code can be found here <a href="https://github.com/shajinihubert/BattleBlob">https://github.com/shajinihubert/BattleBlob</a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PEDKUpT1oP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
