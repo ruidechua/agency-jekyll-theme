@@ -425,7 +425,7 @@ section h3.section-subheading {
     font-style: italic;
 }
 
-#portfolio .portfolio-item .portfolio-caption2 {
+#portfolio .portfolio-item .portfolio-captiontwo {
     margin: 0 auto;
     padding: 25px;
     max-width: 400px;
@@ -433,12 +433,12 @@ section h3.section-subheading {
     background-color: #f7f7f7;
 }
 
-#portfolio .portfolio-item .portfolio-caption2 h4 {
+#portfolio .portfolio-item .portfolio-captiontwo h4 {
     margin: 0;
     text-transform: none;
 }
 
-#portfolio .portfolio-item .portfolio-caption2 p {
+#portfolio .portfolio-item .portfolio-captiontwo p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
